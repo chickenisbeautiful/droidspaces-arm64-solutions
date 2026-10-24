@@ -1,0 +1,6 @@
+id=gamepad-isolate
+name=Gamepad Input Isolation
+version=1.0
+versionCode=1
+author=opencode (AI-generated)
+description=Exclude gamepads from Android input so Anland does not forward duplicate key events to the container
