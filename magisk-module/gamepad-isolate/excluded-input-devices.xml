@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devices>
+    <device name="qti-haptics"/>
+    <device name="qcom-hv-haptics"/>
+    <device name="Xbox Wireless Controller"/>
+    <device name="Microsoft X-Box 360 pad"/>
+    <device name="Microsoft X-Box 360 pad 0"/>
+    <device name="Microsoft X-Box 360 pad 1"/>
+    <device name="Microsoft X-Box 360 pad 2"/>
+    <device name="Microsoft X-Box 360 pad 3"/>
+    <device name="Microsoft X-Box 360 Wireless Receiver"/>
+    <device name="Microsoft X-Box One pad"/>
+    <device name="Microsoft X-Box One S pad"/>
+    <device name="Microsoft X-Box One Elite pad"/>
+    <device name="Microsoft X-Box One pad (Firmware 2015)"/>
+    <device name="Microsoft X-Box Series X pad"/>
+    <device name="Xbox One Controller"/>
+    <device name="Xbox One S Controller"/>
+    <device name="Xbox Series X Controller"/>
+    <device name="Sony Computer Entertainment Wireless Controller"/>
+    <device name="Sony Computer Entertainment Wireless Controller Touchpad"/>
+    <device name="Sony Computer Entertainment Wireless Controller Motion Sensors"/>
+    <device name="Steam Virtual Gamepad"/>
+</devices>
