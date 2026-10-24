@@ -1,0 +1,12 @@
+[Unit]
+Description=Maintain /dev/input event nodes for container
+After=systemd-udevd.service local-fs.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/input-nodes.sh
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target
