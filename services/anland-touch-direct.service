@@ -1,0 +1,13 @@
+[Unit]
+Description=Keep gamescope in direct-touch (passthrough) mode
+After=anland-game-mode.service
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/touch-direct.sh
+Restart=always
+RestartSec=2
+Environment=DISPLAY=:0
+
+[Install]
+WantedBy=default.target
